@@ -4,3 +4,6 @@
 [submodule "routing"]
 	path = routing
 	url = https://github.com/jhonatanhuaman76/routing.git
+[submodule "modulos"]
+	path = modulos
+	url = https://github.com/jhonatanhuaman76/modulos.git
