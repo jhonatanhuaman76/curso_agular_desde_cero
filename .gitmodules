@@ -1,0 +1,6 @@
+[submodule "curso_angular"]
+	path = curso_angular
+	url = https://github.com/jhonatanhuaman76/curso_angular.git
+[submodule "routing"]
+	path = routing
+	url = https://github.com/jhonatanhuaman76/routing.git
